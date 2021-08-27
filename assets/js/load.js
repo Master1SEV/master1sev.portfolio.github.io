@@ -19,6 +19,7 @@ const initConfig = {
   },
   night: "toggleNightMode()",
   model: [
+    "https://cdn.jsdelivr.net/gh/journey-ad/blog-img/live2d/Diana"
     "assets/json/Diana.model3.json",
   ],
   tips: true,
