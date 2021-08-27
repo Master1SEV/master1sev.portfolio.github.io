@@ -199,5 +199,4 @@ var Paul_Pio = function (prop) {
 
 
 if (window.console && window.console.log) {
-    console.log("%c Pio %c https://paugram.com ","color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7;","margin: 1em 0; padding: 5px 0; background: #efefef;");
 }
